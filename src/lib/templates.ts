@@ -106,7 +106,6 @@ export interface ResumeTemplate {
         "Project showcase",
         "Technical achievements",
         "GitHub/Portfolio links",
-        "Custom skill ratings",
         "Clean section dividers"
       ],
       colorSchemes: [
